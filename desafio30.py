@@ -1,3 +1,5 @@
+#Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+#Write a program that reads an integer and displays on the screen whether it is EVEN or ODD.
 
 p=int(input('Digite qualquer número:'))
 
